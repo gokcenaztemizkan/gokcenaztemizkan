@@ -5,4 +5,6 @@
 - :computer: I'am law student at MEF University
 - :computer: I'm learning python with YetGen Core Educational Program
 <h2 align="leading">Social Media</h2>
+<h2 align="leading">Dil & Framework</h2>
 
+![My Skills](https://skillicons.dev/icons?i=py)
